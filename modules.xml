@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="ProjectModuleManager">
-    <modules>
-      <module fileurl="file://$PROJECT_DIR$/ramirez_labactivity.iml" filepath="$PROJECT_DIR$/ramirez_labactivity.iml" />
-      <module fileurl="file://$PROJECT_DIR$/android/ramirez_labactivity_android.iml" filepath="$PROJECT_DIR$/android/ramirez_labactivity_android.iml" />
-    </modules>
-  </component>
-</project>
